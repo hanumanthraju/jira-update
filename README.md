@@ -1,2 +1,2 @@
 # jira-update
-# git hub jira integration testing
+# git hub jira integration test
